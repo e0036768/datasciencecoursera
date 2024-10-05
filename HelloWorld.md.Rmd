@@ -1,7 +1,1 @@
----
-title: "HelloWorld.rmd"
-output: html_document
-date: "2024-10-05"
----
 ## This is a markdown file
-## 
